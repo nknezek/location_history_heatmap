@@ -1,6 +1,5 @@
-Google Location History Heatmap
+# Google Location History Heatmap
 By Nicholas Knezek
-nicholasknezek.com
 September 2014
 
 
@@ -18,3 +17,11 @@ In it’s current form, you must go to the website and download your kml locatio
 5. Open the html file that “makegheatmap.py” created in a web-browser with internet access. This webpage overlays a heat map of location points onto data from google maps and allows you to adjust parameters using the buttons across the top of the webpage window.
 
 LocationHistory.py includes additional functions the play around with the data. 
+
+## Examples
+
+A large global overview of my location in 2014
+![overview](nation.png)
+
+And a zoomed-in track history of a trip to Lake Tahoe
+![tahoe](tahoe.png)
