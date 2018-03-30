@@ -3,7 +3,8 @@ By Nicholas Knezek
 September 2014
 
 
-This code uses location history data from google.com/locationhistory .
+This code uses location history data from google.com/locationhistory, based on the project [here](https://github.com/theopolisme/location-history-visualizer).
+
 In it’s current form, you must go to the website and download your kml location history for each 30 day period. 
 
 1. visit google.com/locationhistory and download the .kml file.
