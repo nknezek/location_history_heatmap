@@ -21,7 +21,7 @@ LocationHistory.py includes additional functions the play around with the data.
 ## Examples
 
 A large global overview of my location in 2014
-![overview](nation.png)
+![overview](https://github.com/nknezek/location_history_heatmap/blob/master/pictures/nation.png)
 
 And a zoomed-in track history of a trip to Lake Tahoe
-![tahoe](tahoe.png)
+![tahoe](https://github.com/nknezek/location_history_heatmap/blob/master/pictures/tahoe.png)
